@@ -1,5 +1,5 @@
 # 177147
-A small clone of [2048]
+A small clone of 2048
 
 Made just for fun. [Play it here!](https://der-eddy.github.io/177147)
 
